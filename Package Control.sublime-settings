@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Emmet",
+		"GitGutter",
+		"LiveStyle",
+		"RuboCop",
+		"Terminal"
+	]
+}
