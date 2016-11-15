@@ -9,9 +9,12 @@
 		"AutoFileName",
 		"BracketHighlighter",
 		"Emmet",
+		"Git",
 		"GitGutter",
 		"LiveStyle",
 		"RuboCop",
-		"Terminal"
+		"SublimeLinter-rubocop",
+		"Terminal",
+		"TrailingSpaces"
 	]
 }
