@@ -12,8 +12,16 @@
 		"Git",
 		"GitGutter",
 		"LiveStyle",
+		"Package Control",
 		"RuboCop",
+		"SublimeLinter",
+		"SublimeLinter-contrib-lesshint",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
 		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
 		"Terminal",
 		"TrailingSpaces"
 	]
