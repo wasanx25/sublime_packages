@@ -8,13 +8,19 @@
 		"Alignment",
 		"AutoFileName",
 		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
 		"Emmet",
 		"Git",
 		"GitGutter",
+		"Grails",
+		"Groovy Snippets",
+		"LESS",
 		"LiveStyle",
 		"Package Control",
 		"RuboCop",
 		"SCSS",
+		"SqlBeautifier",
 		"SublimeLinter",
 		"SublimeLinter-contrib-lesshint",
 		"SublimeLinter-contrib-sass-lint",
@@ -25,6 +31,7 @@
 		"SublimeLinter-rubocop",
 		"SublimeLinter-ruby",
 		"Terminal",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"Vintageous"
 	]
 }
